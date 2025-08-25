@@ -6,8 +6,8 @@
 
 <br>
 
-### The algorithms which has been used are Linear Regression for prediction and gradient discent to update weight
-### and bias and to update loss
+ The algorithms which has been used are Linear Regression for prediction and gradient discent to update weight
+ and bias and to update loss
 
 <br>
 

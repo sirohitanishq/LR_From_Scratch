@@ -10,6 +10,8 @@
  and bias and to update loss.
  <br>
  Recommended application to be used are Anaconda, Jupyter Notebook, PyCharm
+<br>
+New Training branch has been created to stimulate the training process
 
 <br>
 

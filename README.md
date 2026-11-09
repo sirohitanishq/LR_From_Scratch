@@ -10,9 +10,8 @@
  and bias and to update loss.
  <br>
  Recommended application to be used are Jupyter Notebook or any Python IDE.
- Changes -1
 
-<br>
+<br><br>
 
 ### Author - Tanishq Sirohi
 

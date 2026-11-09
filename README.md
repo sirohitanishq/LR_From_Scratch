@@ -9,7 +9,7 @@
  The algorithms which has been used are Linear Regression for prediction and gradient discent to update weight
  and bias and to update loss.
  <br>
- Recommended application to be used are Anaconda, Jupyter Notebook, PyCharm
+ Recommended application to be used are Jupyter Notebook, Any Python IDE
 
 <br>
 

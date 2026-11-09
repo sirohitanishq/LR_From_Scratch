@@ -11,7 +11,7 @@
  <br>
  Recommended application to be used are Jupyter Notebook or any Python IDE.
 
-<br><br>
+<br>
 
 ### Author - Tanishq Sirohi
 
